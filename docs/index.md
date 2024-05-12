@@ -4,22 +4,30 @@ layout: home
 
 hero:
   name: "火影忍者手游攻略"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "成为火影的道路"
+  tagline: 探索忍者世界，成为最强的忍者！
+  # image:
+  #   src: /static/logo.jpg
+  #   alt: naturo
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 查看攻略
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 加入我们
       link: /api-examples
-
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: 精选攻略
+    details: 发现隐藏的秘密，掌握火影忍者手游的技巧和策略。
+  - icon: 🔄
+    title: 最新更新
+    details: 持续更新攻略内容，跟上游戏最新动态，第一时间获取最新信息。
+  - icon: 💬 
+    title: 社区互动
+    details: 加入我们的社区，与其他学员交流心得，共同探讨游戏中的难题。
 ---
+
+
+
 
