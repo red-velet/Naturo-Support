@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Naturo Support"
+  name: "火影忍者手游攻略"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
