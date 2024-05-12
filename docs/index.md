@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 查看攻略
-      link: /markdown-examples
+      link: /guide/金币收集
     - theme: alt
       text: 加入我们
-      link: /api-examples
+      link: /join/club
 features:
   - icon: 📚
     title: 精选攻略
